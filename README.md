@@ -1,2 +1,3 @@
 # Cpp
-this is my first Git repo
+this is my first Git repo.
+Author- Mahesh Pradhan
