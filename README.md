@@ -1,7 +1,7 @@
 # Cpp
 learning cpp
 <br>
-this is my first Git repo.
+Here are the basics programs of cpp 
 <br>
 Author-Mr. Mahesh Pradhan
 
